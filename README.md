@@ -2,4 +2,4 @@
 
 - A Flutter application that .
 
-![](images/cilma_app_intro.gif)
+![](images/clima_app_intro.gif)

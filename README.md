@@ -1,5 +1,5 @@
 # Clima Flutter App
 
-- A new Flutter application.
+- A Flutter application that .
 
-<a><img src="images/clima_app_intro.gif"></a>
+![](images/cilma_app_intro.gif)
